@@ -2,12 +2,15 @@
 Insert. Encrypt to zip, save Ctrl,alt,del!🚨
 
 
+## Self-Destruct Touch Image
 
+![Self Destruct](./self_destruct.svg)
+
+Instant download for any device:
+```bash
+bash download_self_destruct_img.sh
 ---
 
-
-
-```markdown
 ## Self-Destruct Touch Image
 
 ![Self Destruct](./self_destruct.svg)
