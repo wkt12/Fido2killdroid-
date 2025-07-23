@@ -1,13 +1,16 @@
 # Fido2killdroid-
 Insert. Encrypt to zip, save Ctrl,alt,del!🚨
 
+#!/bin/bash
+# Instantly download the self-destruct SVG to the current directory
+
+IMG_URL="https://raw.githubusercontent.com/wkt12/Fido2KillDroid/main/self_destruct.svg"
+curl -o self_destruct.svg "$IMG_URL"
+
+echo "Self-destruct image downloaded as self_destruct.svg"
 
 
----
-
-
-
-```markdown
+```
 ## Self-Destruct Touch Image
 
 ![Self Destruct](./self_destruct.svg)
