@@ -1,6 +1,19 @@
 # Fido2killdroid-
 Insert. Encrypt to zip, save Ctrl,alt,del!🚨
 
+
+
+<![copilot_image_1753107132923.jpeg]> <(https://github.com/user-attachments/assets/4d5e5d33-6bad-477a-afe8-254087556fe8)>
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-Active-success)
+![Tech](https://img.shields.io/badge/python-3.11-blue.svg)
+
+Overview
+
+Fido2KillDroid is a secure vault destruction protocol triggered by a FIDO2 device tap. It combines rapid encryption, compression, and secure deletion of sensitive vault contents. Designed for scenarios needing fast, authenticated data obliteration, it leverages hardware-backed security and robust cryptography.
+
+
+
 #!/bin/bash
 
 
@@ -24,3 +37,26 @@ bash download_self_destruct_img.sh
 Use this image for touchscreen-triggered vault destruction or as a visual “panic” button in your security workflows.
 ```
 
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+![License] <(https://img.shields.io/badge/license-MIT-blue.svg)>
+![Status] <(https://img.shields.io/badge/status-Active-success)>
+![Tech] <(https://img.shields.io/badge/python-3.11-blue.svg)>
