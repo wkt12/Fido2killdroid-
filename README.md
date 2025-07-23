@@ -1,28 +1,21 @@
 # Fido2killdroid-
 Insert. Encrypt to zip, save Ctrl,alt,del!🚨
 
+Overview
+Fido2KillDroid is a secure vault destruction protocol triggered by a FIDO2 device tap. It combines rapid encryption, compression, and secure deletion of sensitive vault contents. Designed for scenarios needing fast, authenticated data obliteration, it leverages hardware-backed security and robust cryptography.
 
 
-<![copilot_image_1753107132923.jpeg]> <(https://github.com/user-attachments/assets/4d5e5d33-6bad-477a-afe8-254087556fe8)>
+<img width="1024" height="1024" alt="1000041603" src="https://github.com/user-attachments/assets/ff117254-6731-4794-aeb0-709c3c90ef79" />
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active-success)
 ![Tech](https://img.shields.io/badge/python-3.11-blue.svg)
 
-Overview
-
-Fido2KillDroid is a secure vault destruction protocol triggered by a FIDO2 device tap. It combines rapid encryption, compression, and secure deletion of sensitive vault contents. Designed for scenarios needing fast, authenticated data obliteration, it leverages hardware-backed security and robust cryptography.
-
-
 
 #!/bin/bash
-
-
 IMG_URL= <"https://raw.githubusercontent.com/wkt12/Fido2KillDroid/main/self_destruct.svg"> 
-
 curl -o self_destruct.svg "$IMG_URL"
-
 echo "Self-destruct image downloaded as self_destruct.svg"
-
 
 ```
 ## Self-Destruct Touch Image
