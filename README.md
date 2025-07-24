@@ -1,15 +1,36 @@
 
 Fido2KillDroid
 
-![License] <(https://img.shields.io/badge/license-MIT-blue.svg)>
-
-![Status] <(https://img.shields.io/badge/status-Active-success)>
-
-![Tech] <(https://img.shields.io/badge/python-3.11-blue.svg)>
-
 Overview
 
 Fido2KillDroid is a secure vault destruction protocol triggered by a FIDO2 device tap. It combines rapid encryption, compression, and secure deletion of sensitive vault contents. Designed for scenarios needing fast, authenticated data obliteration, it leverages hardware-backed security and robust cryptography.
+
+
+
+Use this image for touchscreen-triggered vault destruction or as a visual “panic” button in your security workflows.
+
+<img width="1024" height="1024" alt="1000041603" src="https://github.com/user-attachments/assets/ff117254-6731-4794-aeb0-709c3c90ef79" />
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-Active-success)
+![Tech](https://img.shields.io/badge/python)
+
+
+#!/bin/bash
+echo "Self-destruct image downloaded as self_destruct.svg"
+
+```
+## Self-Destruct Touch Image
+
+![Self Destruct](./self_destruct.svg)
+
+Instant download for any device:
+```bash
+bash download_self_destruct_img.sh
+```
+```
+
+
 
 Features
 
@@ -39,28 +60,6 @@ Encrypted archive snapshot is saved in backup/as vault_<timestamp>.7z.enc.
 
 Execution history is appended to logs/.trigger_log.txt
 
-<img width="1024" height="1024" alt="1000041603" src="https://github.com/user-attachments/assets/ff117254-6731-4794-aeb0-709c3c90ef79" />
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Active-success)
-![Tech](https://img.shields.io/badge/python)
-
-
-#!/bin/bash
-echo "Self-destruct image downloaded as self_destruct.svg"
-
-```
-## Self-Destruct Touch Image
-
-![Self Destruct](./self_destruct.svg)
-
-Instant download for any device:
-```bash
-bash download_self_destruct_img.sh
-```
-
-Use this image for touchscreen-triggered vault destruction or as a visual “panic” button in your security workflows.
-```
 
 MIT License
 
