@@ -1,12 +1,9 @@
 
+
 Fido2KillDroid
 
 
-<https://github.com/user-attachments/assets/ff117254-6731-4794-aeb0-709c3c90ef79>
-
-Overview
-
-Fido2KillDroid is a secure vault destruction protocol triggered by a FIDO2 device tap. It combines rapid encryption, compression, and secure deletion of sensitive vault contents. Designed for scenarios needing fast, authenticated data obliteration, it leverages hardware-backed security and robust cryptography.
+ is a secure vault destruction protocol triggered by a FIDO2 device tap. It combines rapid encryption, compression, and secure deletion of sensitive vault contents. Designed for scenarios needing fast, authenticated data obliteration, it leverages hardware-backed security and robust cryptography.
 
 
 
